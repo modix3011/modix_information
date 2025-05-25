@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://modix3011.github.io/modix_information/sitemap.xml
